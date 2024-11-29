@@ -2,6 +2,7 @@
 Completed the course in the University of Helsinki
 
 I created a minigame as a final project of the course.
+
 The object of the game is to collect coins and dodge monsters. If a player hits a coin, the score goes up.
 
 If a player hits a monster, the score is reset.
